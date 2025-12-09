@@ -1,4 +1,4 @@
-# Ball Bouncing Game 🎾
+# Ball Bouncing Game
 
 Raylib kütüphanesi ve C dili kullanılarak geliştirilmiş fizik tabanlı top sektirme oyunu.
 
