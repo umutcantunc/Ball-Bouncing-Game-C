@@ -44,7 +44,7 @@ int main() {
             top.hiz.y += yercekimi;
 
 
-            //  Yer�ekimi ve Hareket
+            //  Yercekimi ve Hareket
             
 
             if (top.konum.x > 560 || top.konum.x < 40) {
@@ -52,7 +52,7 @@ int main() {
             }
 
 
-            // Duvarlardan Sektirme (Sa� ve Sol)
+            // Duvarlardan Sektirme (Sag ve Sol)
             
 
 
