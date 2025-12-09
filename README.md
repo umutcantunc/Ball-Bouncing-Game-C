@@ -6,7 +6,6 @@ Raylib kütüphanesi ve C dili kullanılarak geliştirilmiş fizik tabanlı top 
 - Gerçekçi yerçekimi fiziği
 - Mouse ile topa yön verme
 - Sonsuz oyun döngüsü
-- Tam ekran modu (F11)
 
 ## Nasıl Oynanır?
 1. Topa tıklayarak havada tutmaya çalışın.
